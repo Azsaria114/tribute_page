@@ -121,7 +121,7 @@ blockquote:hover {
     height: auto;
     position: absolute;
     opacity: 0;
-    border: 2px solid #100c24;
+    border: 3px solid #ffffff;
     border-radius: 10px;
     transition: opacity 1s ease-in-out;
 }
